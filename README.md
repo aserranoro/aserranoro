@@ -1,6 +1,6 @@
 Hi, I’m @aserranoro 👋. 
-I’m interested in mobile and web apps.
-I’m a fulstack developer.
+I’m interested in mobile 📱 and web 💻 apps.
+I’m a fullstack developer.
 
 <!---
 aserranoro/aserranoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
